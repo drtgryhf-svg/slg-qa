@@ -1,0 +1,17 @@
+key,en,de,max_len
+ui.common.ok,OK,OK,
+ui.march.speed,Increases march speed by {0}%,Erhöht Marschgeschwindigkeit um %,60
+ui.btn.attack,Attack,Attack,
+ui.alliance.join,Join an alliance now,Tritt jetzt einer Gilde bei,40
+ui.reward.received,You have received a supply of resources from your alliance,"Benachrichtigung über den Erhalt einer Ressourcenlieferung, die dir von deiner Allianz gesendet wurde",60
+ui.hello,Hello,Hallo ,
+ui.confirm.quit,Are you sure? Really?,Wirklich??,
+ui.corrupt,Bonus reward,Bonus�lohn,
+ui.battle.cry,DESTROY THE ENEMY,Zerstöre den Feind,
+ui.mail.line,Line one\nLine two,Zeile eins Zeile zwei,
+ui.price,100%,100%,
+ui.tag.color,Your shield expires <b>soon</b>,Dein Schutz endet <b>bald</i>,
+ui.fw.punct,Victory!,Sieg！,
+ui.gloss.ok,Alliance leaderboard,Allianz-Rangliste,30
+ui.event.time,Event starts on {0} at {1},Event beginnt am {0} um {1},80
+ui.shield.buy,Buy a shield to protect your city,Kaufe ein Schild um deine Stadt zu schützen,60

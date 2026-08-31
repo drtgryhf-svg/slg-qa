@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# W3 运行期数据（员工抽检台账，敏感，不入库）
+assets/w3/data/*.csv
+
+# OS
+Thumbs.db
+.DS_Store
